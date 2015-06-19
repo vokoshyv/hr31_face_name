@@ -1,1 +1,3 @@
-# hr31_face_name
+# HR 31!!!
+
+## Learn the names and faces of HR31!
